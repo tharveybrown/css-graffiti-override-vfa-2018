@@ -9,3 +9,7 @@
 #wall div[class="slick wicked"]{
   display:none;
 }
+
+#wall .parent.slick{
+  display:none;
+}
