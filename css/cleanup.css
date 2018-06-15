@@ -2,6 +2,6 @@
   display:none;
 }
 
-#wall div[id*="tag"]{
+#wall .tag-1 +
   display:none;
 }
