@@ -6,4 +6,6 @@
   display:none;
 }
 
-#wall div[id=]
+#wall div[class="slick wicked"]{
+  display:none;
+}
